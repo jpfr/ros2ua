@@ -1,0 +1,9 @@
+<package>
+  <description brief="ros2ua">
+     Bridge from ROS nodes to OPC UA
+  </description>
+  <author>noone@yet.net</author>
+  <license>BSD</license>
+  <url>http://www.ros.org/wiki/YOURPACKAGE</url>
+  <depend package="roscpp"/>
+</package>
